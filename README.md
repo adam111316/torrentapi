@@ -5,7 +5,7 @@ If you want to request/suggest any features to the API please create a new issue
 
 Current "apps" that have the api integrated are :
 
-https://github.com/SiCKRAGETV/SickRage maintainer https://github.com/abeloin
+https://github.com/SiCKRAGETV/SickRage maintainer https://github.com/abeloin , https://github.com/fernandog
 
 https://github.com/SchizoDuckie/DuckieTV maintainer https://github.com/SchizoDuckie
 
